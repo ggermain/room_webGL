@@ -1,0 +1,10 @@
+Room in webGL
+--------------
+
+This is just a simple webGL demo with the goal of creating a room with a few "windows" that we can inspect from all angles.  
+
+###Libraries: 
+   
+  * three.js(from mr. doob)  
+    * TrackballControls.js(plugin for three.js)    
+  * ThreeCSG.js(written by chandlerprall for three.js. Made one change to the code to get it to work. Changed line 201, "setEulerFromRotationMatrix" to "setFromRotationMatrix".
